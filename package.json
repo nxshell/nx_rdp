@@ -1,0 +1,22 @@
+{
+  "name": "nxshell-rdp",
+  "version": "1.0.0",
+  "description": "Rdp",
+  "main": "rdp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxshell/nx_rdp.git"
+  },
+  "keywords": [
+    "nxshell-rdp"
+  ],
+  "author": "ct",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nxshell/nx_rdp/issues"
+  },
+  "homepage": "https://github.com/nxshell/nx_rdp#readme"
+}
